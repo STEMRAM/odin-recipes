@@ -1,1 +1,1 @@
-recipe project // for the odin project. polishing html.
+recipe project for the odin project
